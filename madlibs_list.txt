@@ -4,8 +4,8 @@
 4. Maroon
 5. September
 6. 22
-7. Cats
-8. Dogs
+7. Dogs
+8. Cats
 9. Book
 10. A&M
 11. Liquid
