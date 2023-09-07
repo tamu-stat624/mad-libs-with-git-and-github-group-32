@@ -3,19 +3,19 @@
 3. Loudly
 4. Maroon
 5. September
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+6. 22
+7. Dogs
+8. Cats
+9. Book
+10. A&M
+11. Gold
+12. Huge
+13. Feathers
+14. Dancing
+15. Happily
 16. 7
 17. minutes
 18. jogging
 19. joyful
 20. Cyber Truck
-21. Chris
+21. Harsh
