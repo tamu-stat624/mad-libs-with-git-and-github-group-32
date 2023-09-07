@@ -3,11 +3,11 @@
 3. Loudly
 4. Maroon
 5. September
-6. 22
-7. Cats
-8. Dogs
-9. Book
-10. A&M
+6. Number
+7. Noun (Plural)
+8. Noun (Plural)
+9. Noun
+10. Room Name
 11. Liquid
 12. Adjective
 13. Material
