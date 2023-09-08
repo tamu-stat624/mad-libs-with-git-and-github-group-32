@@ -8,11 +8,11 @@
 8. Dogs
 9. Book
 10. A&M
-11. Gold
-12. Huge
-13. Feathers
-14. Dancing
-15. Happily
+11. Liquid
+12. Adjective
+13. Material
+14. Activity
+15. Adverb
 16. Number
 17. Unit of Time
 18. Different Activity
